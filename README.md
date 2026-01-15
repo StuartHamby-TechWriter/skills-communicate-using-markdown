@@ -49,6 +49,12 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ## This is an `<h2>` header
 
+### This is H3
+
+#### This is H4
+
+##### THis is H5
+
 ###### This is an `<h6>` header, which is the smallest
 
 ### :keyboard: Activity: Edit your file with headers
