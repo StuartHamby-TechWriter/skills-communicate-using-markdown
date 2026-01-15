@@ -53,7 +53,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 #### This is H4
 
-##### THis is H5
+##### This is H5
 
 ###### This is an `<h6>` header, which is the smallest
 
